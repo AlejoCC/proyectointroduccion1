@@ -8,7 +8,7 @@ h1{
 }
 .fondoindex{
     background-image: url(img/imgfondoindex.jpg);
-    height: 600px;
+    height: 383px;
     background-attachment: fixed;
 }
 .footerprinc{
@@ -31,4 +31,29 @@ h1{
     color: green;
     font-family: inherit;
     font-style: italic;
+}
+.imagenfondo2{
+    background-image: url(img/cyt.jpg);
+    height: 383px;
+    background-attachment: fixed;
+}
+.p2{
+    color: blue;
+    font-family: inherit;
+    font-style: italic;
+    text-align: left;
+}
+.p3{
+    color: blue;
+    font-family: inherit;
+    font-style: italic;
+    text-align: center;
+}
+.h22{
+    color: blue;
+    font-weight: bold;
+}
+.h11{
+    color: blue;
+    font-weight: bold;
 }
