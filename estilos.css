@@ -1,0 +1,13 @@
+.imagenfondo{
+    background-image: url(img/Fondo.jpg);
+    height: 383px;
+    background-attachment: fixed;
+}
+.fondoindex{
+    background-image: url(img/imgfondoindex.jpg);
+    height: 600px;
+    background-attachment: fixed;
+}
+.footerprinc{
+    background-color: gray;
+}
