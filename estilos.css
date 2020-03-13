@@ -57,3 +57,12 @@ h1{
     color: blue;
     font-weight: bold;
 }
+.fondobody{
+    background-color: rgba(122, 107, 252, 0.705);
+}
+.bodypg1{
+    background-color: rgba(151, 67, 67, 0.582);
+}
+.bodypg2{
+    background-color: rgb(192, 238, 232);
+}
